@@ -1,4 +1,4 @@
-package main
+package aonepaper
 
 import (
 	"fmt"
@@ -7,8 +7,7 @@ import (
 
 var paperLengths = make([]float64, 30)
 
-//AOnePaper Calculates how much tape needs to be used when taping papers of size A2 and smaller into an A1 paper.
-func AOnePaper() {
+func main() {
 	smallestSize, papers := readInput()
 	usedPapers, possible := calculateUsedPapers(smallestSize, papers)
 	if possible {
