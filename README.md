@@ -6,3 +6,4 @@ Problems solved:
 - [A Classy Problem](https://open.kattis.com/problems/classy)
 - [A1 Paper](https://open.kattis.com/problems/a1paper)
 - [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)
+- [CD](https://open.kattis.com/problems/cd)
